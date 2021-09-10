@@ -1,1 +1,1 @@
-# Algoritma
+# Latihan-1-ALgoritma
