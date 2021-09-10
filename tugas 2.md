@@ -1,3 +1,5 @@
+# Latihan-!-Algoritma
+
 ## tugas 2
 
 1. bangun tidur lalu membersihkan tempat tidur
