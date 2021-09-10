@@ -1,4 +1,4 @@
-# Latihan-!-Algoritma
+# Latihan-1-Algoritma
 
 ## tugas 2
 
